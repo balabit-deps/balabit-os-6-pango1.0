@@ -1,0 +1,2 @@
+# from the udeb flavor
+debian/install/udeb/@LIBDIR_UDEB@/*.so.* @LIBDIR_UDEB@
